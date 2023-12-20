@@ -1,5 +1,5 @@
 # ThanhNee
-# Bài tập cộng điểm môn lập trình web
+// Bài tập cộng điểm môn lập trình web
 # Các bài tập nộp bao gồm:
 # 1. Thay đổi màu background và tạo paragraph
 # 2. Định nghĩa Header, Footer cho bài
