@@ -1,7 +1,7 @@
 # ThanhNee
 // Bài tập cộng điểm môn lập trình web
-# Các bài tập nộp bao gồm:
-# 1. Thay đổi màu background và tạo paragraph
+// Các bài tập nộp bao gồm:
+// 1. Thay đổi màu background và tạo paragraph
 # 2. Định nghĩa Header, Footer cho bài
 # 3. Tạo ra 2 bảng với định dạng và nội dung như ở bên dưới ...
 # 4. Chèn ảnh theo dạng thẻ card 3 cột trên 1 dòng, và 2 dòng trong 1 trang. Có tiêu đề như sau
